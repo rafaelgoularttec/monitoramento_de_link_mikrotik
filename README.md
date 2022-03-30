@@ -1,6 +1,6 @@
 <h1 align="center">Manual de configuração do link</h1>
-<img src=""/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4BD07xjX6g8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://github.com/rafaelgoularttec/geral/blob/main/1-Passo.png?raw=true"/>
+<h2>Vídeo completo: https://youtu.be/4BD07xjX6g8</h2>
 <pre>
 #---=== =========================== ===---
 #---=== CONFIGURAÇÃO DA CONTA DE E-MAIL ===---
